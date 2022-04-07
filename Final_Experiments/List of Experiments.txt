@@ -1,0 +1,6 @@
+1. Validate multi-variables
+2. Amplitude variation
+3. Epochs vary 20 -120
+4. OOA s_size =3, k_size = 3  
+5. OOA variation with s_size =3, k_size = 5  
+6. Results on Non-Linear model
